@@ -28,7 +28,7 @@ export default function HeroSection() {
               View My Work
             </button>
             <button className="bg-slate-700 hover:bg-slate-600 text-slate-200 px-8 py-3 text-lg rounded-full transition-all duration-300 transform hover:scale-105">
-              Download CV
+              Download Resume
             </button>
           </div>
         </div>
